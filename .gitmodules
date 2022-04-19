@@ -50,3 +50,7 @@
 	path = moodle/mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
 	branch = main
+[submodule "moodle/mod/publication"]
+	path = moodle/mod/publication
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
+	branch = MOODLE_311_STABLE
