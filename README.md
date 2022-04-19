@@ -101,10 +101,7 @@ git submodule add -b master https://github.com/davosmith/moodle-checklist.git mo
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
-- https://github.com/jleyva/moodle-block_configurablereports
-```bash
-git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
-```
+
 - https://moodle.org/plugins/block_dedication
 ```bash
 git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git blocks/dedication
@@ -145,6 +142,12 @@ git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adapt
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
 git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
+
+## Removed
+- https://github.com/jleyva/moodle-block_configurablereports
+```bash
+git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
 
 ## Themes List
