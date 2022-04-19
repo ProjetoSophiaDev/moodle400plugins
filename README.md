@@ -36,16 +36,18 @@ https://jenkins.adrianoruseler.com/view/Sophia/job/Sophia-MDLDevUpdate/
 mkdir moodle
 cd moodle
 ```
-
-## TODO
+- https://github.com/danmarsden/moodle-mod_attendance/
+```bash
+git submodule add -b MOODLE_400_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
+```
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
-- https://github.com/danmarsden/moodle-mod_attendance/
-```bash
-git submodule add -b MOODLE_311_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
-```
+
+
+## TODO
+
 
 - https://github.com/FMCorz/moodle-block_xp
 ```bash
