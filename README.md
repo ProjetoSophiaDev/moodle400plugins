@@ -46,10 +46,7 @@ git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_cus
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
-- https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn
-```bash
-git submodule add -b v2.4-stable https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git mod/bigbluebuttonbn
-```
+
 - https://github.com/FMCorz/moodle-block_xp
 ```bash
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
