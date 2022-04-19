@@ -54,3 +54,7 @@
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/availability/condition/relativedate"]
+	path = moodle/availability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = main
