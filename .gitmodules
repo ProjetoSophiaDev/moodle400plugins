@@ -38,3 +38,7 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = master
+[submodule "moodle/local/sandbox"]
+	path = moodle/local/sandbox
+	url = https://github.com/moodleuulm/moodle-local_sandbox.git
+	branch = master
