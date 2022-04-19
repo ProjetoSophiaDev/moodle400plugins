@@ -70,3 +70,7 @@
 	path = moodle/course/format/collapsibletopics
 	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
 	branch = master
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = V3.5.0
