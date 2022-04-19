@@ -58,3 +58,7 @@
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
 	branch = main
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = master
