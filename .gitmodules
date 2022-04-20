@@ -78,3 +78,11 @@
 	path = moodle/question/type/vplquestion
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
 	branch = master
+[submodule "moodle/tool/certificate"]
+	path = moodle/tool/certificate
+	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
+	branch = master
+[submodule "moodle/mod/coursecertificate"]
+	path = moodle/mod/coursecertificate
+	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
+	branch = master
