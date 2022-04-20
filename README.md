@@ -116,7 +116,10 @@ git submodule add -b V3.5.0 https://github.com/jcrodriguez-dis/moodle-mod_vpl.gi
 ```bash
 git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
 ```
-
+- https://github.com/michael-milette/moodle-filter_filtercodes
+```bash
+git submodule add -b master https://github.com/michael-milette/moodle-filter_filtercodes.git /filter/filtercodes
+```
 
 ## TODO
 
