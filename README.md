@@ -44,11 +44,6 @@ git submodule add -b MOODLE_400_STABLE https://github.com/danmarsden/moodle-mod_
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
-
-
-## TODO
-
-
 - https://github.com/FMCorz/moodle-block_xp
 ```bash
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
@@ -73,18 +68,6 @@ git submodule add -b master https://github.com/frankkoch/moodle-mod_studentquiz.
 ```bash
 git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark.git report/benchmark
 ```
-- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
-```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
-```
-
-- https://github.com/h5p/h5p-moodle-plugin
-```bash
-git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
-cd mod/hvp
-git submodule update --init
-```
-
 - https://github.com/davosmith/moodle-checklist
 ```bash
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
@@ -93,37 +76,26 @@ git submodule add -b master https://github.com/davosmith/moodle-checklist.git mo
 ```bash
  git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
-
-- https://github.com/bdaloukas/moodle-mod_game
-```bash
- git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
-```
-
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
-
 - https://moodle.org/plugins/block_dedication
 ```bash
 git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git blocks/dedication
 ```
-
 - https://github.com/mudrd8mz/moodle-mod_subcourse
 ```bash
 git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
-
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
-
 - https://moodle.org/plugins/availability_relativedate
 ```bash
 git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 ```
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
@@ -136,14 +108,36 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 ```bash
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b V3.5.0 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
+- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
+```bash
+git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+```
+
+
+## TODO
+
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
+- https://github.com/h5p/h5p-moodle-plugin
+```bash
+git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
+cd mod/hvp
+git submodule update --init
+```
+- https://github.com/bdaloukas/moodle-mod_game
+```bash
+ git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
+```
 - https://github.com/trampgeek/moodle-qtype_coderunner
 ```bash
 git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-```
-- https://github.com/jcrodriguez-dis/moodle-mod_vpl
-```bash
-git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 
 ## Removed
