@@ -8,7 +8,7 @@ git submodule update --remote
 ## Disable Notifications
 
 ```php
- // Moodle configuration file
+// Moodle configuration file
  
 // Use the following flag to completely disable the installation of plugins
 // (new plugins, available updates and missing dependencies) and related
@@ -23,6 +23,9 @@ $CFG->disableupdatenotifications = true;
 // those config settings via the web. They will need to be set explicitly in the
 // config.php file
 $CFG->preventexecpath = true;
+
+// Force result of checks used to determine whether a site is considered "public" or not (such as for site registration).
+$CFG->site_is_public = false;
 ```
 ## References
 https://www.vogella.com/tutorials/GitSubmodules/article.html
