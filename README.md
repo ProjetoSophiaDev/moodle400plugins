@@ -120,6 +120,11 @@ git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda
 ```bash
 git submodule add -b master https://github.com/michael-milette/moodle-filter_filtercodes.git /filter/filtercodes
 ```
+- https://github.com/trampgeek/moodle-qtype_coderunner
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+```
 
 ## TODO
 
@@ -137,11 +142,7 @@ git submodule update --init
 ```bash
  git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
 ```
-- https://github.com/trampgeek/moodle-qtype_coderunner
-```bash
-git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
-git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-```
+
 
 ## Removed
 - https://github.com/jleyva/moodle-block_configurablereports
