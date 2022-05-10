@@ -110,3 +110,7 @@
 	path = moodle/lib/editor/ousupsub
 	url = https://github.com/moodleou/moodle-editor_ousupsub.git
 	branch = main
+[submodule "moodle/question/type/varnumunit"]
+	path = moodle/question/type/varnumunit
+	url = https://github.com/moodleou/moodle-qtype_varnumunit.git
+	branch = main
