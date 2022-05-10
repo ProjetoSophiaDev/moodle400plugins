@@ -114,3 +114,7 @@
 	path = moodle/question/type/pmatch
 	url = https://github.com/moodleou/moodle-qtype_pmatch.git
 	branch = main
+[submodule "moodle/question/type/varnumunit"]
+	path = moodle/question/type/varnumunit
+	url = https://github.com/moodleou/moodle-qtype_varnumunit.git
+	branch = main
