@@ -146,10 +146,7 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumericset
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.git question/type/varnumeric
 ```
-- https://github.com/moodleou/moodle-qtype_varnumunit
-```bash
-git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
-```
+
 - https://github.com/moodleou/moodle-editor_ousupsub/
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
@@ -160,7 +157,11 @@ git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git
 ```bash
  git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
 ```
-
+## Error
+- https://github.com/moodleou/moodle-qtype_varnumunit
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
+```
 
 ## Removed
 - https://github.com/jleyva/moodle-block_configurablereports
