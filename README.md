@@ -138,6 +138,11 @@ git submodule update --init
 ```bash
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
+- https://github.com/moodleou/moodle-qtype_pmatch
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_pmatch.git question/type/pmatch
+```
+
 - https://github.com/moodleou/moodle-qtype_varnumericset
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumericset.git question/type/varnumericset
@@ -151,6 +156,10 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.gi
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
 ```
+- https://github.com/moodleou/moodle-qtype_varnumunit
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
+```
 
 ## TODO
 - https://github.com/bdaloukas/moodle-mod_game
@@ -158,10 +167,7 @@ git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git
  git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
 ```
 ## Error
-- https://github.com/moodleou/moodle-qtype_varnumunit
-```bash
-git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
-```
+
 
 ## Removed
 - https://github.com/jleyva/moodle-block_configurablereports
