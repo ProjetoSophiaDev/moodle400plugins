@@ -110,3 +110,7 @@
 	path = moodle/question/type/varnumericset
 	url = https://github.com/moodleou/moodle-qtype_varnumericset.git
 	branch = main
+[submodule "moodle/lib/editor/ousupsub"]
+	path = moodle/lib/editor/ousupsub
+	url = https://github.com/moodleou/moodle-editor_ousupsub.git
+	branch = main
