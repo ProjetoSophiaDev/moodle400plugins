@@ -102,3 +102,7 @@
 	path = moodle/question/type/varnumunit
 	url = https://github.com/moodleou/moodle-qtype_varnumunit.git
 	branch = main
+[submodule "moodle/question/type/varnumeric"]
+	path = moodle/question/type/varnumeric
+	url = https://github.com/moodleou/moodle-qtype_varnumeric.git
+	branch = main
