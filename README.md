@@ -138,6 +138,22 @@ git submodule update --init
 ```bash
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
+- https://github.com/moodleou/moodle-qtype_varnumericset
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumericset.git question/type/varnumericset
+```
+- https://github.com/moodleou/moodle-qtype_varnumeric
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.git question/type/varnumeric
+```
+- https://github.com/moodleou/moodle-qtype_varnumunit
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
+```
+- https://github.com/moodleou/moodle-editor_ousupsub/
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
+```
 
 ## TODO
 - https://github.com/bdaloukas/moodle-mod_game
