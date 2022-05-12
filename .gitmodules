@@ -118,3 +118,7 @@
 	path = moodle/question/type/varnumunit
 	url = https://github.com/moodleou/moodle-qtype_varnumunit.git
 	branch = main
+[submodule "moodle/theme/eguru"]
+	path = moodle/theme/eguru
+	url = https://github.com/ProjetoSophiaDev/eguru4.git
+	branch = main
