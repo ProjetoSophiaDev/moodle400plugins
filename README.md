@@ -65,7 +65,7 @@ git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git
 ```
 - https://github.com/frankkoch/moodle-mod_studentquiz
 ```bash
-git submodule add -b master https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
+git submodule add -b main https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
 ```
 - https://github.com/mikasmart/moodle-report_benchmark
 ```bash
