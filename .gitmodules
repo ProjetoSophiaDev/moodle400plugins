@@ -118,3 +118,7 @@
 	path = moodle/theme/eguru
 	url = https://github.com/ProjetoSophiaDev/eguru4.git
 	branch = main
+[submodule "moodle/mod/studentquiz"]
+	path = moodle/mod/studentquiz
+	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
+	branch = main
