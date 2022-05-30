@@ -70,10 +70,6 @@
 	path = moodle/mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = V3.5.0
-[submodule "moodle/question/type/vplquestion"]
-	path = moodle/question/type/vplquestion
-	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
-	branch = master
 [submodule "moodle/filter/filtercodes"]
 	path = moodle/filter/filtercodes
 	url = https://github.com/michael-milette/moodle-filter_filtercodes.git
