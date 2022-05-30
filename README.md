@@ -111,6 +111,10 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 ```bash
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
+- https://gitlab.com/drlikm/format_etask
+```bash
+git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
+```
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
 git submodule add -b V3.5.0 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
