@@ -117,7 +117,7 @@ git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/fo
 ```
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
-git submodule add -b V3.5.0 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+git submodule add -b V3.5.0+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
 ```bash
