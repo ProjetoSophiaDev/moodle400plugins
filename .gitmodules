@@ -126,3 +126,7 @@
 	path = mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = V3.5.0+
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = V3.5.0+
