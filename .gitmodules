@@ -122,3 +122,7 @@
 	path = moodle/mod/studentquiz
 	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
 	branch = main
+[submodule "moodle/course/format/etask"]
+	path = moodle/course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+	branch = master
