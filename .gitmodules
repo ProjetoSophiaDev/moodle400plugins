@@ -130,7 +130,3 @@
 	path = moodle/mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = V3.5.0+
-[submodule "moodle/tool/certificate"]
-	path = moodle/tool/certificate
-	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
-	branch = master
