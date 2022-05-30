@@ -66,10 +66,6 @@
 	path = moodle/course/format/collapsibletopics
 	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
 	branch = master
-[submodule "moodle/mod/vpl"]
-	path = moodle/mod/vpl
-	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
-	branch = V3.5.0
 [submodule "moodle/filter/filtercodes"]
 	path = moodle/filter/filtercodes
 	url = https://github.com/michael-milette/moodle-filter_filtercodes.git
@@ -121,4 +117,8 @@
 [submodule "moodle/course/format/etask"]
 	path = moodle/course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
+	branch = master
+[submodule "moodle/question/type/vplquestion"]
+	path = moodle/question/type/vplquestion
+	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
 	branch = master
