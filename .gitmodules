@@ -122,3 +122,7 @@
 	path = moodle/question/type/vplquestion
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
 	branch = master
+[submodule "mod/vpl"]
+	path = mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = V3.5.0+
