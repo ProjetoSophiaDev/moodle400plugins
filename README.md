@@ -178,7 +178,6 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-mod_course
 ```bash
  git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
 ```
-## Error
 
 
 ## Removed
