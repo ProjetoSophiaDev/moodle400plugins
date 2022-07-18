@@ -138,3 +138,7 @@
 	path = moodle/mod/coursecertificate
 	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
 	branch = master
+[submodule "moodle/question/type/ordering"]
+	path = moodle/question/type/ordering
+	url = https://github.com/gbateson/moodle-qtype_ordering.git
+	branch = master
