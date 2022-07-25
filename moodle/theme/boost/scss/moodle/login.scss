@@ -14,8 +14,8 @@ $login-identity-provider-btn-border: $border-color !default;
 }
 
 .pagelayout-login #page {
-    background: $loginbackground-gradient-from;
-    @include gradient-x($loginbackground-gradient-from, $loginbackground-gradient-to, 0%, 100%);
+  /*  background: $loginbackground-gradient-from; 
+    @include gradient-x($loginbackground-gradient-from, $loginbackground-gradient-to, 0%, 100%); */
     div[role="main"] {
         height: 100%;
     }
